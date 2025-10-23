@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\bin\Debug\net9.0\DirectApp.exe
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\bin\Debug\net9.0\DirectApp.deps.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\bin\Debug\net9.0\DirectApp.runtimeconfig.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\bin\Debug\net9.0\DirectApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\bin\Debug\net9.0\DirectApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.sourcelink.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\refint\DirectApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\DirectApp.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\direct\DirectApp\obj\Debug\net9.0\ref\DirectApp.dll
