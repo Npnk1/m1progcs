@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\bin\Debug\net9.0\UitvragenApp.exe
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\bin\Debug\net9.0\UitvragenApp.deps.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\bin\Debug\net9.0\UitvragenApp.runtimeconfig.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\bin\Debug\net9.0\UitvragenApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\bin\Debug\net9.0\UitvragenApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.sourcelink.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\refint\UitvragenApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\UitvragenApp.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\uitvragen\UitvragenApp\obj\Debug\net9.0\ref\UitvragenApp.dll
