@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\bin\Debug\net9.0\BrutoApp.exe
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\bin\Debug\net9.0\BrutoApp.deps.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\bin\Debug\net9.0\BrutoApp.runtimeconfig.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\bin\Debug\net9.0\BrutoApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\bin\Debug\net9.0\BrutoApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.sourcelink.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\refint\BrutoApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\BrutoApp.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\bruto\BrutoApp\obj\Debug\net9.0\ref\BrutoApp.dll
