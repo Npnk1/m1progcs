@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\bin\Debug\net9.0\VarIndexApp.exe
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\bin\Debug\net9.0\VarIndexApp.deps.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\bin\Debug\net9.0\VarIndexApp.runtimeconfig.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\bin\Debug\net9.0\VarIndexApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\bin\Debug\net9.0\VarIndexApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.sourcelink.json
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\refint\VarIndexApp.dll
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.pdb
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\VarIndexApp.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Документы\M1Prog_cs1\05_collecties\varindex\VarIndexApp\obj\Debug\net9.0\ref\VarIndexApp.dll
